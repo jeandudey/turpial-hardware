@@ -710,7 +710,7 @@ Wire Notes Line
 Text Notes 7700 4800 0    50   ~ 0
 VDD is 1.8V converted from\nFuel Gauge internal LDO (unused)
 Text Notes 5700 4900 0    50   ~ 0
-Sense resistor
+Current sense\nresistor
 Text Notes 5650 5850 0    50   ~ 0
 Decoupling\ncapacitor for\nbattery\ncurrent
 Text Notes 2050 2250 0    50   ~ 0
