@@ -7,7 +7,7 @@ top_feed_dpv :=  "assembly/top-feed.dpv"
 top_ic_dpv :=  "assembly/top-ic.dpv"
 
 deps:
-    cargo install kichm
+    cargo install --git https://github.com/sanantonio-tech/rust-kichm.git
 
 kicad:
     #!/bin/sh
